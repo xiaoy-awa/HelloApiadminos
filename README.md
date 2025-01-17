@@ -1,6 +1,6 @@
 <h1 align="center">适用于HelloApi的后台系统</h1>
 <p align="center">
-<a href="https://github.com/xiaoy_awa/HelloApiadminos" target="_blank">Github</a> | <a href="https://gitee.com/xiaoy_awa/HelloApiadminos" target="_blank">Gitee</a>
+<a href="https://github.com/xiaoy-awa/HelloApiadminos" target="_blank">Github</a> | <a href="https://gitee.com/xiaoy_awa/HelloApiadminos" target="_blank">Gitee</a>
 
 #### 介绍
 适用于HelloApi的后台系统
